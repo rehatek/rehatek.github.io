@@ -171,29 +171,29 @@ hr {
 }
 
 .jumbotron{
-  margin-top: 4rem;
-  background-color:white;
+  margin-top: 4rem !important;
+  background-color:white !important;
   padding-bottom: 0 !important;
   margin-bottom: 0 !important;
 }
 
 .jumbotron h1{
-  color: #3449BF;
-  font: Calibri;
+  color: #3449BF !important;
+  font: Calibri !important;
 }
 
 .jumbotron p{
-  margin-top: 1rem;
-  font: 'Open Sans', sans-serif;
-  font-size: medium;
+  margin-top: 1rem !important;
+  font: 'Open Sans', sans-serif !important;
+  font-size: medium !important;
 }
 
 .jumbotron hr{
-  margin-top: 2rem;
+  margin-top: 2rem !important;
 }
 
 .espacioletras{
-  letter-spacing: -0.5px;
+  letter-spacing: -0.5px !important;
 }
 
 @media (min-width: 40em) {
@@ -209,10 +209,10 @@ hr {
   }
   
   .namerehatek {
-    font-size: 2rem;
+    font-size: 2rem !important;
   }
 
   .carousel, .jumbotron {
-    margin-top: 5.5rem;
+    margin-top: 5.5rem !important;
   }
 }
